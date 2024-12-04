@@ -36,7 +36,7 @@ public class SimpleStringMethods {
      * @return the index of the first occurence of c within s.
      */
     public int getIndexGivenCharacter(String s, char c){
-        return s.indexOf(s);
+        return s.indexOf(c);
     }
 
 }
